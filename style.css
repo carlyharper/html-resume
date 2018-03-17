@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana, Georgia, sans-serif;
+    text-align: center;
+    padding: 10px 50px 10px;
+    color: #364652;
+    background-color:lightgrey;
+}
+
+.start {
+    font-weight: bold;
+}
+
+li {
+    text-align: left;
+    font-size: 16px;
+    font-size: light;
+}
+
+#title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: black;
+}
+
+img {
+    border-style: dotted;
+    border-width: 5px;
+    border-color: #ff0000;
+}
